@@ -4,8 +4,6 @@ A powerful and secure copy trading bot for Pump.fun that allows you to automatic
 
 [![Video Demo](https://img.shields.io/badge/Video-Demo-red)](https://drive.google.com/file/d/1VAbadMSu2ykRVV-1xjoC_KiKH4nvIvJK/view?usp=drive_link)
 
-[![Video Demo](https://img.shields.io/badge/Video-Demo-red)](YOUR_VIDEO_LINK_HERE)
-
 ## 🌟 Features
 
 - **Real-time Copy Trading**: Instantly replicate trades from any Pump.fun wallet
