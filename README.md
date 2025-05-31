@@ -3,6 +3,7 @@
 A powerful and secure copy trading bot for Pump.fun that allows you to automatically replicate trades from any wallet. Built with real-time data from CoinVera and secure transaction execution through SolanaPortal.
 
 [![Video Demo](https://img.shields.io/badge/Video-Demo-red)](https://drive.google.com/file/d/1VAbadMSu2ykRVV-1xjoC_KiKH4nvIvJK/view?usp=drive_link)
+![Pumpfun Copy Trading Bot Dashboard](https://raw.githubusercontent.com/ahk780/pumpfun-copy-trading-bot/refs/heads/main/public/pumpfun-copy-trading-bot-preview-image.jpeg)
 
 ## 🌟 Features
 
