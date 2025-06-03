@@ -150,7 +150,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For support, please:
 1. Check the [FAQ](#faq) section
 2. Open an issue on GitHub
-3. Join our community [Add your community link]
+3. Join our community [https://t.me/ahk782]
 
 ## FAQ
 
